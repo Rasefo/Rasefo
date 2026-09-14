@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rasefo
-- 👀 I’m interested in web developement, robotics, game making.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in game development, artificial intelligence, machine learning.
 
 
 <!---
